@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the guide below."
+title: "Woodlands for All: reusable materials"
+authors:
+  - family-names: Pittaway
+    given-names: Timothy
+    orcid: "https://orcid.org/0000-0002-9792-0932"
+license: CC-BY-4.0
+repository-code: "https://github.com/timothypittaway/woodlands-for-all"
+preferred-citation:
+  type: report
+  title: "Woodlands for All: A Guide Towards Fostering Community Benefits and Engagement in Communal Woodlands"
+  authors:
+    - family-names: Pittaway
+      given-names: Timothy
+      orcid: "https://orcid.org/0000-0002-9792-0932"
+    - family-names: Townsend
+      given-names: Leanne
+      orcid: "https://orcid.org/0000-0002-6650-9569"
+    - family-names: Hardy
+      given-names: Claire
+      orcid: "https://orcid.org/0000-0002-2986-3737"
+    - family-names: Marshall
+      given-names: Acacia
+  institution:
+    name: "James Hutton Institute"
+  publisher:
+    name: "Zenodo"
+  year: 2025
+  doi: "10.5281/zenodo.15050621"
